@@ -1,4 +1,5 @@
 module.exports = {
+    root: true,
     // Support for: commonjs, node, mocha, es2020
     env: {
         mocha: true,
